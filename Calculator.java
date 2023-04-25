@@ -39,7 +39,9 @@ public class Calculator {
                 System.out.println("wrong operator");
 
         }
+        System.out.println("Thanks for using this !!!");
+
 
     }
-
+    
 }
